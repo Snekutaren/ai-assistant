@@ -1,4 +1,4 @@
-from local_audio import LocalMicrophoneInput, LocalSpeakerOutput
+from local_audio_v2 import LocalMicrophoneInput, LocalSpeakerOutput
 
 def main():
     print("Testing audio loop... Press Ctrl+C to stop.")
